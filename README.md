@@ -10,7 +10,9 @@ Here is my [dataset](https://huggingface.co/datasets/BoHu370/Land_grandfather).
 ![image](https://github.com/user-attachments/assets/7dc2bd39-ad85-4521-a818-880cf7d13231)
 
 ## Usage
-The usage of my fine-tuned model could refer to the [model card](https://huggingface.co/BoHu370/lgd-old-man) on HuggingFace.
+You could just run `inference.ipynb` to get some generated samples.
+The usage of my fine-tuned model could also refer to the [Huggingface model card](https://huggingface.co/BoHu370/lgd-old-man) on HuggingFace.
+
 
 ## Examples
 Here are some generated samples using my fine-tuned model.
