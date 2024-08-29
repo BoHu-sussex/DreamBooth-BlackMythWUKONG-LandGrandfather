@@ -11,7 +11,10 @@ Here is my [dataset](https://huggingface.co/datasets/BoHu370/Land_grandfather).
 
 ## Usage
 You could just run `inference.ipynb` to get some generated samples.
+
 The usage of my fine-tuned model could also refer to the [Huggingface model card](https://huggingface.co/BoHu370/lgd-old-man) on HuggingFace.
+
+**Trigger word: `lgd`**
 
 
 ## Examples
